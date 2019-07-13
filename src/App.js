@@ -286,7 +286,7 @@ export default class App extends Component {
           <form className='todo-create-wrapper' onSubmit={this.saveTodo}>
             <input
               className='todo-create-input'
-              placeholder='Add a todo item'
+              placeholder='Καμιά ιδέα ...'
               name='name'
               ref={el => this.inputElement = el}
               autoComplete='off'
