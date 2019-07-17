@@ -280,13 +280,13 @@ export default class App extends Component {
 
         <div className='todo-list'>
           <h2>
-            Πράγματα Διακοπών 2019
+            Πράγματα Διακοπών:
             <SettingsIcon onClick={this.openModal} className='mobile-toggle' />
           </h2>
           <form className='todo-create-wrapper' onSubmit={this.saveTodo}>
             <input
               className='todo-create-input'
-              placeholder='Καμιά ιδέα ...'
+              placeholder='Καμιά ιδέα ;'
               name='name'
               ref={el => this.inputElement = el}
               autoComplete='off'
