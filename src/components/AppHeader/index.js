@@ -12,9 +12,9 @@ const AppHeader = (props) => {
           <div className='app-left-nav'>
             <img src={logo} className='app-logo' alt='logo' />
             <div className='app-title-text'>
-              <h1 className='app-title'>T3K</h1>
+              <h1 className='app-title'>Πράγματα Διακοπών</h1>
               <p className='app-intro'>
-                Τ3Κ
+                Σούνιο 2019
               </p>
             </div>
           </div>
