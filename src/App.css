@@ -59,6 +59,7 @@
   font-weight: 300;
   color: #adadad;
   letter-spacing: 1px;
+  overflow: hidden;
 }
 .mobile-toggle {
   display: none;
