@@ -2,8 +2,7 @@
 .todo-list {
   padding: 60px;
   padding-top: 10px;
-  width: 600px;
-  overflow: scroll;
+  width: 600px;  
 }
 .todo-settings-toggle {
   fill: #b7b9bd;
@@ -60,8 +59,7 @@
   font-size: 11px;
   font-weight: 300;
   color: #adadad;
-  letter-spacing: 1px;
-  overflow: scroll;
+  letter-spacing: 1px;  
 }
 .mobile-toggle {
   display: none;
