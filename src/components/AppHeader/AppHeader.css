@@ -12,6 +12,7 @@
 }
 .app-header {
   background-color: rgb(59, 120, 170);
+  background-image: linear-gradient(to bottom right, red, yellow);
   height: 105px;
   padding: 20px;
   color: white;
