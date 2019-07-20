@@ -1,11 +1,9 @@
-.app {
-  overflow: hidden;
-}
 
 .todo-list {
   padding: 60px;
   padding-top: 10px;
   width: 600px;
+  overflow: scroll;
 }
 .todo-settings-toggle {
   fill: #b7b9bd;
@@ -63,7 +61,7 @@
   font-weight: 300;
   color: #adadad;
   letter-spacing: 1px;
-  overflow: hidden;
+  overflow: scroll;
 }
 .mobile-toggle {
   display: none;
